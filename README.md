@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science with Python
 - 🌱 I’m currently learning Flask and MongoDB 
 - 📫 How to reach me: website pending
-- carlosblackjack@outlook.com
+- "carlosblackjack@outlook.com"
 
 <!---
 carlosbytes/carlosbytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
